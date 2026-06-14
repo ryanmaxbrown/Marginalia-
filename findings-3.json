@@ -1,0 +1,162 @@
+{
+  "title": "FINDINGS",
+  "subtitle": "A standing collection of the most interesting things I've read lately — and, eventually, what I make of them.",
+  "findings": [
+    {
+      "id": "e-bret-taylor",
+      "url": "https://cheekypint.transistor.fm/27/transcript",
+      "title": "Bret Taylor on AI Agents, Outcome-Based Pricing, and the OpenAI Board",
+      "author": "Bret Taylor",
+      "source": "A Cheeky Pint",
+      "tags": [
+        "ai",
+        "agents",
+        "pricing"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T13:00:00.000Z",
+      "updatedAt": "2026-06-14T13:00:00.000Z"
+    },
+    {
+      "id": "e-krier-top8",
+      "url": "https://www.aipolicyperspectives.com/p/seb-kriers-top-8-ai-reads-of-the",
+      "title": "Séb Krier's Top 8 AI Reads of the Year",
+      "author": "Séb Krier",
+      "source": "AI Policy Perspectives",
+      "tags": [
+        "ai",
+        "policy"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:06:00.000Z",
+      "updatedAt": "2026-06-14T12:06:00.000Z"
+    },
+    {
+      "id": "e-scarce",
+      "url": "https://aleximas.substack.com/p/what-will-be-scarce",
+      "title": "What will be scarce?",
+      "author": "Alex Imas",
+      "source": "Ghosts of Electricity",
+      "tags": [
+        "ai",
+        "economics",
+        "labor"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:05:00.000Z",
+      "updatedAt": "2026-06-14T12:05:00.000Z"
+    },
+    {
+      "id": "e-task-job",
+      "url": "https://www.siliconcontinent.com/p/why-desk-jobs-survive-and-amodei",
+      "title": "The task is not the job",
+      "author": "Luis Garicano",
+      "source": "Silicon Continent",
+      "tags": [
+        "ai",
+        "labor",
+        "economics"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:04:00.000Z",
+      "updatedAt": "2026-06-14T12:04:00.000Z"
+    },
+    {
+      "id": "e-asml",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "title": "The world's most complex machine",
+      "author": "",
+      "source": "Works in Progress",
+      "tags": [
+        "semiconductors",
+        "technology"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:03:00.000Z",
+      "updatedAt": "2026-06-14T12:03:00.000Z"
+    },
+    {
+      "id": "e-xi-father",
+      "url": "https://www.chinatalk.media/p/the-partys-interests-come-first",
+      "title": "Xi's Father",
+      "author": "Jordan Schneider & Phoebe Chow",
+      "source": "ChinaTalk",
+      "tags": [
+        "china",
+        "politics",
+        "books"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:02:00.000Z",
+      "updatedAt": "2026-06-14T12:02:00.000Z"
+    },
+    {
+      "id": "e-cyborg",
+      "url": "https://aleximas.substack.com/p/the-cyborg-era-what-ai-means-for",
+      "title": "The Cyborg Era: What AI Means for Jobs",
+      "author": "Séb Krier",
+      "source": "Ghosts of Electricity",
+      "tags": [
+        "ai",
+        "labor"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:01:00.000Z",
+      "updatedAt": "2026-06-14T12:01:00.000Z"
+    },
+    {
+      "id": "e-ai-firm",
+      "url": "https://www.dwarkesh.com/p/ai-firm",
+      "title": "What fully automated firms will look like",
+      "author": "Dwarkesh Patel",
+      "source": "Dwarkesh Podcast",
+      "tags": [
+        "ai",
+        "economics",
+        "firms"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:00:00.000Z",
+      "updatedAt": "2026-06-14T12:00:00.000Z"
+    },
+    {
+      "id": "seed-norvig",
+      "url": "https://readsomethingwonderful.com/p/214/teach-yourself-programming-in-ten-years",
+      "title": "Teach Yourself Programming in Ten Years",
+      "author": "Peter Norvig",
+      "source": "Read Something Wonderful",
+      "tags": [
+        "craft",
+        "programming"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-08T15:00:00.000Z",
+      "updatedAt": "2026-06-08T15:00:00.000Z"
+    },
+    {
+      "id": "seed-cembalest",
+      "url": "https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/smothering-heights-amv.pdf",
+      "title": "Smothering Heights — Eye on the Market Outlook 2026",
+      "author": "Michael Cembalest",
+      "source": "J.P. Morgan · Eye on the Market",
+      "tags": [
+        "markets",
+        "ai",
+        "concentration"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-10T15:00:00.000Z",
+      "updatedAt": "2026-06-14T04:39:28.903Z"
+    }
+  ]
+}
