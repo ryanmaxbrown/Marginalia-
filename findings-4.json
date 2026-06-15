@@ -1,0 +1,189 @@
+{
+  "title": "FINDINGS",
+  "subtitle": "A standing collection of the most interesting things I've read lately — and, eventually, what I make of them.",
+  "findings": [
+    {
+      "id": "e-maintenance-race",
+      "url": "https://worksinprogress.co/issue/the-maintenance-race/",
+      "title": "The Maintenance Race",
+      "author": "Stewart Brand",
+      "source": "Works in Progress",
+      "tags": [
+        "maintenance",
+        "craft",
+        "history"
+      ],
+      "note": "",
+      "noteType": "none",
+      "image": "https://worksinprogress.co/wip-image/uploads/2022/08/Cropped-Roaring-40s-2-1.png",
+      "createdAt": "2026-06-15T03:06:00.000Z",
+      "updatedAt": "2026-06-15T03:06:00.000Z"
+    },
+    {
+      "id": "e-bret-taylor",
+      "url": "https://cheekypint.transistor.fm/27/transcript",
+      "title": "Bret Taylor on AI Agents, Outcome-Based Pricing, and the OpenAI Board",
+      "author": "Bret Taylor",
+      "source": "A Cheeky Pint",
+      "tags": [
+        "ai",
+        "agents",
+        "pricing"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T13:00:00.000Z",
+      "updatedAt": "2026-06-14T13:00:00.000Z",
+      "image": "https://img.transistorcdn.com/kEtRlqZy_vujxaoXBEiY1aYnzmG2QHrjwTNzOzxXAY8/rs:fill:0:0:1/w:800/h:800/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Nzc1/MmYxZjllODFkNmMx/NzJkZDhmMDgzYzM2/OWQ2MC5wbmc.webp"
+    },
+    {
+      "id": "e-krier-top8",
+      "url": "https://www.aipolicyperspectives.com/p/seb-kriers-top-8-ai-reads-of-the",
+      "title": "Séb Krier's Top 8 AI Reads of the Year",
+      "author": "Séb Krier",
+      "source": "AI Policy Perspectives",
+      "tags": [
+        "ai",
+        "policy"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:06:00.000Z",
+      "updatedAt": "2026-06-14T12:06:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!U2QO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F366476be-c459-412d-ae1c-8fde34c070ba_1376x768.jpeg"
+    },
+    {
+      "id": "e-scarce",
+      "url": "https://aleximas.substack.com/p/what-will-be-scarce",
+      "title": "What will be scarce?",
+      "author": "Alex Imas",
+      "source": "Ghosts of Electricity",
+      "tags": [
+        "ai",
+        "economics",
+        "labor"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:05:00.000Z",
+      "updatedAt": "2026-06-14T12:05:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!_Aw4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ed4075f-b3cd-42a2-8d0b-02b4946e213e_2338x1122.png"
+    },
+    {
+      "id": "e-task-job",
+      "url": "https://www.siliconcontinent.com/p/why-desk-jobs-survive-and-amodei",
+      "title": "The task is not the job",
+      "author": "Luis Garicano",
+      "source": "Silicon Continent",
+      "tags": [
+        "ai",
+        "labor",
+        "economics"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:04:00.000Z",
+      "updatedAt": "2026-06-14T12:04:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!mYwT!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc86fa193-00b0-4dfa-81ce-6c251f8c95a7_826x609.png"
+    },
+    {
+      "id": "e-asml",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "title": "The world's most complex machine",
+      "author": "",
+      "source": "Works in Progress",
+      "tags": [
+        "semiconductors",
+        "technology"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:03:00.000Z",
+      "updatedAt": "2026-06-14T12:03:00.000Z",
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/04/WIP_i23-Share_Cards-asml.jpg"
+    },
+    {
+      "id": "e-xi-father",
+      "url": "https://www.chinatalk.media/p/the-partys-interests-come-first",
+      "title": "Xi's Father",
+      "author": "Jordan Schneider & Phoebe Chow",
+      "source": "ChinaTalk",
+      "tags": [
+        "china",
+        "politics",
+        "books"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:02:00.000Z",
+      "updatedAt": "2026-06-14T12:02:00.000Z",
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/mJUTrdaM_EA"
+    },
+    {
+      "id": "e-cyborg",
+      "url": "https://aleximas.substack.com/p/the-cyborg-era-what-ai-means-for",
+      "title": "The Cyborg Era: What AI Means for Jobs",
+      "author": "Séb Krier",
+      "source": "Ghosts of Electricity",
+      "tags": [
+        "ai",
+        "labor"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:01:00.000Z",
+      "updatedAt": "2026-06-14T12:01:00.000Z",
+      "image": ""
+    },
+    {
+      "id": "e-ai-firm",
+      "url": "https://www.dwarkesh.com/p/ai-firm",
+      "title": "What fully automated firms will look like",
+      "author": "Dwarkesh Patel",
+      "source": "Dwarkesh Podcast",
+      "tags": [
+        "ai",
+        "economics",
+        "firms"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-14T12:00:00.000Z",
+      "updatedAt": "2026-06-14T12:00:00.000Z",
+      "image": "https://substackcdn.com/image/fetch/$s_!174Y!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F81e63a95-d331-43d8-bdfb-a968a6ce213f_1792x1024.webp"
+    },
+    {
+      "id": "seed-norvig",
+      "url": "https://readsomethingwonderful.com/p/214/teach-yourself-programming-in-ten-years",
+      "title": "Teach Yourself Programming in Ten Years",
+      "author": "Peter Norvig",
+      "source": "Read Something Wonderful",
+      "tags": [
+        "craft",
+        "programming"
+      ],
+      "note": "",
+      "noteType": "none",
+      "createdAt": "2026-06-08T15:00:00.000Z",
+      "updatedAt": "2026-06-08T15:00:00.000Z",
+      "image": "https://readsomethingwonderful.com/api/og/image/214"
+    },
+    {
+      "id": "seed-cembalest",
+      "url": "https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/smothering-heights-amv.pdf",
+      "title": "Smothering Heights — Eye on the Market Outlook 2026",
+      "author": "Michael Cembalest",
+      "source": "J.P. Morgan · Eye on the Market",
+      "tags": [
+        "markets",
+        "ai",
+        "concentration"
+      ],
+      "note": "His sharpest framing yet: roughly 65–75% of the S&P 500's returns, profits, and capex since ChatGPT trace back to ~42 companies tied to generative AI. Strip them out and US equities would have trailed Europe, Japan, and China. The index isn't broad — it's a single bet on one moat holding.",
+      "noteType": "takeaway",
+      "createdAt": "2026-06-10T15:00:00.000Z",
+      "updatedAt": "2026-06-10T15:00:00.000Z",
+      "image": ""
+    }
+  ]
+}
